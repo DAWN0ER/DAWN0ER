@@ -1,8 +1,30 @@
-## 已往不谏，来者可追 👋
+# 已往不谏，来者可追 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAWN0ER&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+个人博客，欢迎参观 [Blog](https://blog.mydawn.space/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAWN0ER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
+    <img
+      align=center
+      src="https://img.shields.io/github/stars/DAWN0ER?style=social&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+      style="margin: 0 5px"
+    /><img
+      align=center
+      src="https://img.shields.io/github/followers/DAWN0ER?style=social&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
+      style="margin: 0 5px"
+    />
+</div>
+
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DAWN0ER&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DAWN0ER&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAWN0ER&theme=default&hide_border=true" />
+</picture>
+
+### 足迹
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DAWN0ER&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=github"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAWN0ER&locale=cn&line_height=33&theme=radical&langs_count=5&layout=donut"/>
 
 <!--
 **DAWN0ER/DAWN0ER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
