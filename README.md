@@ -14,12 +14,6 @@
     />
 </div>
 
-<picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DAWN0ER&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DAWN0ER&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAWN0ER&theme=default&hide_border=true" />
-</picture>
-
 ### 足迹
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DAWN0ER&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=github"/>
